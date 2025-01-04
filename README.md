@@ -42,7 +42,7 @@ netflix-landing-page/
 ## **How to Run the Project**
 
 1. Clone the repository to your local machine:```
-   git clone https://github.com/your-username/netflix-landing-page.git
+   git clone https://github.com/xrishis/netflix-landing-page.git
    
    ```
 2. Navigate to the project directory:```
